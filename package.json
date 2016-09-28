@@ -1,0 +1,25 @@
+{
+  "name": "bmf-trading-settlements",
+  "version": "1.0.0",
+  "description": "BM&F Trading session settlements",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lscoder/bmf-trading-settlements.git"
+  },
+  "keywords": [
+    "bmf",
+    "trading",
+    "settlements",
+    "trade",
+    "bovespa",
+    "ajuste",
+    "diario"
+  ],
+  "author": "Leonardo S Campos",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "q": "^1.4.1"
+  }
+}
