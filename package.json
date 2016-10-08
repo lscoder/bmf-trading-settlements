@@ -1,6 +1,6 @@
 {
   "name": "bmf-trading-settlements",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BM&F Trading session settlements",
   "main": "index.js",
   "repository": {
