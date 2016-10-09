@@ -12,5 +12,9 @@ let config = require('./config'),
 
 
 module.exports = function(contract) {
+  if(!contract) {
+    return dataProvider.get();
+  }
+  
   return dataProvider.getContractData(contract);
 }
